@@ -1,4 +1,3 @@
-
 import heapq
 import sys
 INF = sys.maxsize
@@ -7,7 +6,7 @@ INF = sys.maxsize
 from collections import deque
 import sys
 
-#input = sys.stdin.readline
+input = sys.stdin.readline
 
 #사다리의 수 N, 뱀의 수 M 입력 받기 
 N,M = map(int,input().split())
